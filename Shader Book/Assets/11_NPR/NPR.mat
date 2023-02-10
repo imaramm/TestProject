@@ -59,7 +59,7 @@ Material:
     m_Ints: []
     m_Floats:
     - _BumpScale: 1
-    - _ChangeSize: 0.00362
+    - _ChangeSize: 0.00393
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
